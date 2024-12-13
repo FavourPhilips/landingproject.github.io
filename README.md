@@ -30,7 +30,8 @@ To get started, we need to create a virtual machine (VM) on AWS, called an **EC2
    
 5. **Launch the Instance**  
    - Click **Launch** to start your EC2 instance.
-   - Once the instance is running, go to **Instances** on the EC2 dashboard and note the **Public IP Address** of your instance (e.g., `3.25.45.150`).
+   - Once the instance is running, go to **Instances** on the EC2 dashboard and note the **Public IP Address** of your instance (16.171.24.46.)
+   - IP ADDRESS : 16.171.24.46
 
 ---
 
@@ -71,7 +72,7 @@ Next, we’ll install **Apache**, which is another popular web server, on our EC
      ```
 
 5. **Check if Apache is Running**  
-   - Open your browser and enter the **public IP address** of your EC2 instance (e.g., `http://3.25.45.150`).
+   - Open your browser and enter the **public IP address** of your EC2 instance ( `http://16.171.24.46`).
   
 ---
 
