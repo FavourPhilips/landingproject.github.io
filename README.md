@@ -143,7 +143,12 @@ Now that you have a running server on AWS, with a simple HTML page deployed and 
 ---
 
 ## Screenshot  
-- Include a screenshot of your landing page loaded in the browser here.
+
+<img width="947" alt="landing page 1" src="https://github.com/user-attachments/assets/810df201-53ae-409d-a842-5f76f30b9a24" />
+
+
+<img width="957" alt="landing page 2" src="https://github.com/user-attachments/assets/34858628-50d9-482a-9d56-8201bcd3d23c" />
+
 
 ---
 
